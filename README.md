@@ -9,3 +9,9 @@
 [<img align="left" alt="k_molev | Telegram" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
 
 [telegram]: https://t.me/k_molev
+
+### 🧗 About Me
+
+I like gym, snowboard and studying
+
+![github-user-contribution](https://github.com/Kirill354/Kirill354/blob/main/github-user-contribution.svg)
