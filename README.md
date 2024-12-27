@@ -15,5 +15,6 @@
 I like gym, snowboard and studying
 
 ![codewars](https://www.codewars.com/users/Kirill354/badges/large)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill354&layout=compact&langs_count=6)
 
 ![github-user-contribution](https://github.com/Kirill354/Kirill354/blob/main/github-user-contribution.svg)
