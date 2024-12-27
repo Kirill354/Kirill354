@@ -14,4 +14,6 @@
 
 I like gym, snowboard and studying
 
+![codewars](https://www.codewars.com/users/Kirill354/badges/large)
+
 ![github-user-contribution](https://github.com/Kirill354/Kirill354/blob/main/github-user-contribution.svg)
