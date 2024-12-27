@@ -6,4 +6,6 @@
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="k_molev | Telegram" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]: https://t.me/k_molev
+[<img align="left" alt="k_molev | Telegram" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/telegram.svg"/> ][telegram]
+
+[telegram]: https://t.me/k_molev
