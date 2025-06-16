@@ -10,7 +10,7 @@
 [<img align="left" alt="Kirill Molev | Linked In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/linkedin.svg"/> ][linked.in]
 [<img align="left" alt="kirend12 | Habr career" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.8.0/icons/habr.svg"/> ][career.habr] &nbsp;&nbsp;
 
-[telegram]: https://t.me/k_molev
+[telegram]: https://t.me/k_moler
 [linked.in]: https://www.linkedin.com/in/kirill-molev-75aa24342/
 [career.habr]: https://career.habr.com/kirend12
 &nbsp;&nbsp;
